@@ -21,7 +21,7 @@ affiliate a club or society with the QUT Guild please fill out the following for
 
 ### The aims and objectives of the Club/Society:
 
-1. Further the education of its members in the field of software development. -- I don't think this is the best wording but it gets the gist across.
+1. Further the education of its members in the field of software development. -- [I don't think this is the best wording but it gets the gist across.]
 
 
 2. Provide situations for students to collaborate together, practise and develop their skills in creating software.
