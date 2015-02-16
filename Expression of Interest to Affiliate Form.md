@@ -21,18 +21,19 @@ affiliate a club or society with the QUT Guild please fill out the following for
 
 ### The aims and objectives of the Club/Society:
 
-1.
+1. Open Source Projects [Flesh This Out]
 
 
-2.
+2. Coding Workshops and Learning opportunities.  [Flesh This Out]
 
 
-3.
+3. Industry Nights [Flesh this out]
 ### List how the club/society will achieve the above aims:
-1.
+
+1. [Ideas?]
 
 
-2.
+2. [Ideas?]
 
 
-3.
+3. [Ideas?]
