@@ -21,19 +21,19 @@ affiliate a club or society with the QUT Guild please fill out the following for
 
 ### The aims and objectives of the Club/Society:
 
-1. Open Source Projects [Flesh This Out]
+1. Further the education of its members in the field of software development. -- I don't think this is the best wording but it gets the gist across.
 
 
-2. Coding Workshops and Learning opportunities.  [Flesh This Out]
+2. Provide situations for students to collaborate together, practise and develop their skills in creating software.
 
 
-3. Industry Nights [Flesh this out]
+3. Give students the chance to meet and network with professional developers and learn from their experiences in the industry.
+
 ### List how the club/society will achieve the above aims:
-
-1. [Ideas?]
-
-
-2. [Ideas?]
+1. Programming workshops
 
 
-3. [Ideas?]
+2. Open source projects
+
+
+3. Industry nights
