@@ -1,4 +1,4 @@
-# This form relates to officially Starting a New Club
+# Starting a New Club
 
 ## Preface
 
